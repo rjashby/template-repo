@@ -16,7 +16,7 @@
 
 ## Description
 
-_It's sudoku, but more importantly it's a chance for us to test out TDD with Jest_
+_Add Description Here_
 
 ## Setup/Installation Requirements
 
@@ -34,4 +34,4 @@ _It's sudoku, but more importantly it's a chance for us to test out TDD with Jes
 ## License
 
 *[MIT](https://opensource.org/licenses/MIT) Licenced
-*Copyright (c) _2021_ _Karen Axon_ _Skylar Brockbank_
+*Copyright (c) _2021_ _Ryan Ashby_
