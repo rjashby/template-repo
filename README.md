@@ -1,31 +1,37 @@
-# (Application Name)
+# __
 
-#### (Brief Description of Application)
+#### By _**Ryan Ashby**_
 
-#### By (Your Name Here)
+#### __
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* _HTML_
+* _CSS(Bootstrap)_
+* _Git_
+* _Webpack_
+* _jQuery_
+* _Jest_
+
 
 ## Description
 
+_It's sudoku, but more importantly it's a chance for us to test out TDD with Jest_
+
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Click the green "Code" button and Download Zip _
+* _Extract the contents of the zip file to a folder on your machine_
+* _Run the Index.html file with your browser of choice (I recommend Chrome)_
+
+* _alternatively you can [clone this repository](https://www.learnhowtoprogram.com/introduction-to-programming/git-html-and-css/practice-github-remote-repositories) from Git Hub_
+
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No Known Bugs_
 
 ## License
 
-## Contact Information
+*[MIT](https://opensource.org/licenses/MIT) Licenced
+*Copyright (c) _2021_ _Karen Axon_ _Skylar Brockbank_
